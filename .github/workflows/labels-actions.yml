@@ -8,7 +8,7 @@ on:
     types: [labeled, unlabeled]
 permissions: 
   contents: read
-  issues: read
+  issues: write
   pull-requests: write
   discussions: write
 jobs:
