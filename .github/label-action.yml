@@ -6,7 +6,7 @@ feature:
   issue:
     comment: Thanks for the feature request! We'll review it.
     label: enhancement
-insight:
+overview:
   issue:
-    comment: Thanks for your description insights.
-    label: description
+    comment: Thanks for the project documentation.
+    label: documentation
