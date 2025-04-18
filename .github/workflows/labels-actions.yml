@@ -18,4 +18,7 @@ jobs:
       - name: Enable Debug Logging
         run: echo "ACTIONS_STEP_DEBUG=true" >> $GITHUB_ENV
       - uses: dessant/label-actions@v4
+        with: 
+          config-path: '.github/label-actions.yml'
+          process-only: 'issue'
       
