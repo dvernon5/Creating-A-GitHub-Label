@@ -15,5 +15,7 @@ jobs:
   testingLabelAction:
     runs-on: ubuntu-latest
     steps:
+      - name: Enable Debug Logging
+        run: echo "ACTIONS_STEP_DEBUG=true" >> $GITHUB_ENV
       - uses: dessant/label-actions@v4
       
