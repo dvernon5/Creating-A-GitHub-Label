@@ -1,0 +1,12 @@
+bug:
+  issue:
+    comment: Thanks for reporting this bug! We'll triage it soon.
+    label: triage
+feature:
+  issue:
+    comment: Thanks for the feature request! We'll review it.
+    label: enhancement
+insight:
+  issue:
+    comment: Thanks for your description insights.
+    label: description
