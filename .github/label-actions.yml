@@ -1,12 +1,9 @@
 bug:
-  issue:
-    comment: Thanks for reporting this bug! We'll triage it soon.
-    label: triage
+  comment: Thanks for reporting this bug! We'll triage it soon.
+  add_label: triage
 feature:
-  issue:
-    comment: Thanks for the feature request! We'll review it.
-    label: enhancement
+  comment: Thanks for the feature request! We'll review it.
+  add_label: enhancement
 overview:
-  issue:
-    comment: Thanks for the project documentation.
-    label: documentation
+  comment: Thanks for the project documentation.
+  add_label: documentation
